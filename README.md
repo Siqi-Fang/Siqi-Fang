@@ -6,13 +6,13 @@
 
 
 
-## Machine Learning Projects 
+## My Projects 
 
 **Now Working On**
 
 
 [![ATOP Visualization](https://img.shields.io/badge/%F0%9F%92%A1ATOP%20Visualization-R%20Shiny-black?style=plastic)](https://github.com/Siqi-Fang/ATOP_Shiny_App)
-[![Kaggle](https://img.shields.io/badge/Competition-Recommendation-black?style=plastic&logo=kaggle)](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations/overview)
+[![Kaggle](https://img.shields.io/badge/NLP-Sentiment%20Analysis-black?style=plastic&logo=twitter)](https://github.com/Siqi-Fang/Twitter-Sentiment-Analysis)
 
 **My Fav Projects**
 
