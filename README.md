@@ -1,7 +1,7 @@
 ## Hello ! I am Siqi <img src="https://pa1.narvii.com/6999/cca8fb28b1db2dcd1820dfa09655d2a73fc04f06r1-960-480_hq.gif" width = 200>
 
 - :school: I am a `Junior` at Hamilton College studying Math & Computer Science
-- :student: I’m currently learning: `Machine Learning` `AWS` `Tableau` 
+- :student: I’m currently learning: `Sentiment Analysis` `AWS` `Django` 
 - 🥇 Looking forward to getting more hands on experience with machine learning
 
 
