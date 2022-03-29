@@ -10,15 +10,15 @@
 
 **Now Working On**
 
-
+[![TSA APP](https://img.shields.io/badge/app-Sentiment%20Analysis-black?style=plastic&logo=django)](https://github.com/Siqi-Fang/twitter_sentiment_deploy)
 [![ATOP Visualization](https://img.shields.io/badge/%F0%9F%92%A1ATOP%20Visualization-R%20Shiny-black?style=plastic)](https://github.com/Siqi-Fang/ATOP_Shiny_App)
-[![Kaggle](https://img.shields.io/badge/NLP-Sentiment%20Analysis-black?style=plastic&logo=twitter)](https://github.com/Siqi-Fang/Twitter-Sentiment-Analysis)
 
 **My Fav Projects**
 
 
 [![BrawlStars Battle Result Prediction](https://img.shields.io/badge/%F0%9F%8E%AE%20BrawlStars-Classification-black?style=plastic)](https://github.com/Siqi-Fang/BrawlStar_Classification)
-[![Traffic Pattern Forcasting(Timeseries)](https://img.shields.io/badge/%F0%9F%9A%98%20TrafficPattern-Forcasting-black?style=plastic)](https://github.com/Siqi-Fang/Vehicles_Prediction_TS)
+
+[![Sentiment Analysis](https://img.shields.io/badge/NLP-Sentiment%20Analysis-black?style=plastic&logo=twitter)](https://github.com/Siqi-Fang/Twitter-Sentiment-Analysis)
 
 
 ## 🛠️ My Skills
@@ -42,10 +42,11 @@
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-000000?style=flat&logo=jupyter)
-![VS Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visualstudiocode)
-
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
+![BS](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+![pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat&logo=pycharm) ![VS Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visualstudiocode)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
