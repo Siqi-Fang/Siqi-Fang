@@ -15,11 +15,11 @@
 
 **My Fav Projects**
 
-[![Flask](https://img.shields.io/badge/Web%20App-Twitter%20Sentiment-brightgreen?style=flat&logo=flask)](https://github.com/Siqi-Fang/ts_flask/blob/main/README.md)
+
+[![Sentiment Analysis](https://img.shields.io/badge/NLP-Sentiment%20Analysis-black?style=plastic&logo=twitter)](https://github.com/Siqi-Fang/Twitter-Sentiment-Analysis)  [![Flask](https://img.shields.io/badge/Web%20App-Twitter%20Sentiment-brightgreen?style=flat&logo=flask)](https://github.com/Siqi-Fang/ts_flask/blob/main/README.md)
 
 [![BrawlStars Battle Result Prediction](https://img.shields.io/badge/%F0%9F%8E%AE%20BrawlStars-Classification-black?style=plastic)](https://github.com/Siqi-Fang/BrawlStar_Classification)
 
-[![Sentiment Analysis](https://img.shields.io/badge/NLP-Sentiment%20Analysis-black?style=plastic&logo=twitter)](https://github.com/Siqi-Fang/Twitter-Sentiment-Analysis)
 
 
 ## 🛠️ My Skills
