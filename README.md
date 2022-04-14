@@ -8,11 +8,6 @@
 
 ## My Projects 
 
-**Now Working On**
-
-[![TSA APP](https://img.shields.io/badge/app-Sentiment%20Analysis-black?style=plastic&logo=django)](https://github.com/Siqi-Fang/twitter_sentiment_deploy)
-[![ATOP Visualization](https://img.shields.io/badge/%F0%9F%92%A1ATOP%20Visualization-R%20Shiny-black?style=plastic)](https://github.com/Siqi-Fang/ATOP_Shiny_App)
-
 **My Fav Projects**
 
 
@@ -20,9 +15,13 @@
 
 [![BrawlStars Battle Result Prediction](https://img.shields.io/badge/%F0%9F%8E%AE%20BrawlStars-Classification-black?style=plastic)](https://github.com/Siqi-Fang/BrawlStar_Classification)
 
+**🛠️Still Working On..**
+
+[![TSA APP](https://img.shields.io/badge/app-Sentiment%20Analysis-black?style=plastic&logo=django)](https://github.com/Siqi-Fang/twitter_sentiment_deploy)
+[![ATOP Visualization](https://img.shields.io/badge/%F0%9F%92%A1ATOP%20Visualization-R%20Shiny-black?style=plastic)](https://github.com/Siqi-Fang/ATOP_Shiny_App)
 
 
-## 🛠️ My Skills
+## My Skills
 
 **Languages I have used**
 
