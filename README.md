@@ -1,7 +1,7 @@
 ## Hello ! I am Siqi <img src="https://pa1.narvii.com/6999/cca8fb28b1db2dcd1820dfa09655d2a73fc04f06r1-960-480_hq.gif" width = 200>
 
 - :school: I am a `Junior` at Hamilton College studying Math & Computer Science
-- :student: I’m currently learning: `Sentiment Analysis` `Flask` `Docker` 
+- :student: I’m currently learning: `Flask` `Docker` 
 - 🥇 Looking forward to getting more hands on experience with machine learning!
 
 
@@ -38,7 +38,7 @@
 
 
 
-**Some of the technologies I have worked with**
+**Some technologies I have worked with**
 
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
