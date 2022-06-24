@@ -1,6 +1,6 @@
 ## Hello ! I am Siqi <img src="https://pa1.narvii.com/6999/cca8fb28b1db2dcd1820dfa09655d2a73fc04f06r1-960-480_hq.gif" width = 200>
 
-- :school: I am a `Junior` at Hamilton College studying Math & Computer Science
+- :school: I am a `senior` at Hamilton College studying Math & Computer Science
 - :student: I’m currently learning: `Flask` `Docker` 
 - 🥇 Looking forward to getting more hands on experience with machine learning!
 
@@ -12,9 +12,7 @@
 
 [![ElonBot](https://img.shields.io/badge/Web%20App-GPT2%20Text%20Generator-black?style=plastic&logo=twitter)](https://github.com/Siqi-Fang/tweet_generator)
 
-[![Flask](https://img.shields.io/badge/Web%20App-Twitter%20Sentiment-brightgreen?style=flat&logo=flask)](https://github.com/Siqi-Fang/ts_flask/blob/main/README.md)
-
-[![BrawlStars Battle Result Prediction](https://img.shields.io/badge/%F0%9F%8E%AE%20BrawlStars-Classification-black?style=plastic)](https://github.com/Siqi-Fang/BrawlStar_Classification)
+[![Flask](https://img.shields.io/badge/%20-Twitter%20Sentiment-brightgreen?style=flat&logo=flask)](https://github.com/Siqi-Fang/ts_flask/blob/main/README.md)
 
 **🛠️Still Working On..**
 
@@ -51,7 +49,8 @@
 ![PythonAny](https://img.shields.io/badge/PythonAnywhere-black?style=flat&logo=python)
 ![pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat&logo=pycharm) ![VS Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visualstudiocode)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+
+## Connect with me
 <p align="center">
 	<a href="mailto:sfang@hamilton.edu"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Siqi-Fang"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
