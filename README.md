@@ -1,8 +1,7 @@
 ## Hello ! I am Siqi <img src="https://pa1.narvii.com/6999/cca8fb28b1db2dcd1820dfa09655d2a73fc04f06r1-960-480_hq.gif" width = 200>
 
 - :school: I am a `senior` at Hamilton College studying Math & Computer Science
-- :student: I’m currently learning: `Flask` `Docker` 
-- 🥇 Looking forward to getting more hands on experience with machine learning!
+- :student: I’m currently working on [this](https://tele-tube.github.io/) chrome extension
 
 
 
@@ -12,7 +11,6 @@
 
 [![ElonBot](https://img.shields.io/badge/Web%20App-GPT2%20Text%20Generator-black?style=plastic&logo=twitter)](https://github.com/Siqi-Fang/tweet_generator)
 
-[![Flask](https://img.shields.io/badge/%20-Twitter%20Sentiment-brightgreen?style=flat&logo=flask)](https://github.com/Siqi-Fang/ts_flask/blob/main/README.md)
 
 **🛠️Still Working On..**
 
@@ -40,14 +38,12 @@
 
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-000000?style=flat&logo=jupyter)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![BS](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)
 ![PythonAny](https://img.shields.io/badge/PythonAnywhere-black?style=flat&logo=python)
-![pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat&logo=pycharm) ![VS Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visualstudiocode)
 
 
 ## Connect with me
