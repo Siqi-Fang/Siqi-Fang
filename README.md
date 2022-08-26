@@ -36,7 +36,7 @@
 
 **Some technologies I have worked with**
 
-
+![](https://img.shields.io/badge/Chrome%20Extension%20-black?style=flat&logo=google)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-000000?style=flat&logo=jupyter)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask)
