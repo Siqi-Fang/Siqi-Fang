@@ -5,17 +5,21 @@
 
 
 
-## My Projects 
+## Projects 
 
 **My Fav Projects**
 
 [![ElonBot](https://img.shields.io/badge/Web%20App-GPT2%20Text%20Generator-black?style=plastic&logo=twitter)](https://github.com/Siqi-Fang/tweet_generator)
 
 
-**🛠️Still Working On..**
+**Check out the products made by my students:**
 
-[![TSA APP](https://img.shields.io/badge/app-Sentiment%20Analysis-black?style=plastic&logo=django)](https://github.com/Siqi-Fang/twitter_sentiment_deploy)
-[![ATOP Visualization](https://img.shields.io/badge/%F0%9F%92%A1ATOP%20Visualization-R%20Shiny-black?style=plastic)](https://github.com/Siqi-Fang/ATOP_Shiny_App)
+[Amazon Review Generator](https://github.com/Siqi-Fang/SC22-BatchA-The-Stars-Amazon-Review_Generator)
+
+[Rap Bot](https://github.com/Siqi-Fang/SC22-BatchB-The-Stars-Rap-Bot)
+
+[Synopisis Review Generator](https://github.com/Siqi-Fang/SC22-BatchD-The-Stars-Synposis-Review-Generator)
+
 
 
 ## My Skills
