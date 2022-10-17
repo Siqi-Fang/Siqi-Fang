@@ -32,7 +32,7 @@
 ![R](https://img.shields.io/badge/R-shiny%20%7C%20tidyverse%20%7C%20ggplot2%20%7C%20plotly-black?style=flat&logo=R)
 
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-React-black?style=flat&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 
